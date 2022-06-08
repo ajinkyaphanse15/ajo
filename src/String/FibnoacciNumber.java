@@ -15,7 +15,7 @@ public class FibnoacciNumber {
 			n1=n2;
 			n2=sum;
 		}
-		
+		this very good but keep practicing.
 		
 		 
 		 
